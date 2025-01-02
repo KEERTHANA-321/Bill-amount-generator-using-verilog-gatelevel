@@ -1,22 +1,7 @@
-LOGIC DESIGN
-GATELEVEL MODELLING
-PROJECT
-Implementation of a bill amount generating
-machine
-The project mainly involves an implementation of a bill
-amount calculating machine.This system offers
-customers the flexibility to input the quantities of items
-purchased for each product,enabling precise bill
-calculation.
-The user can input the quantiy of items purchased for
-each product and the machine will evaluate the total
-transaction amount .It will check if the customer
-purchased products greater than a certain amount and,
-upon meeting the criteria,it will tell if he/she is eligible
-for a discount or not.If yes,it will calculate the discount
-amount user can avail and deduct it from the total
-amount and finally gives the exact amount customer
-needs to pay.
+LOGIC DESIGN GATELEVEL MODELLING PROJECT
+Implementation of a bill amount generating machine
+The project mainly involves an implementation of a bill amount calculating machine.This system offers customers the flexibility to input the quantities of items purchased for each product,enabling precise bill calculation.
+The user can input the quantiy of items purchased for each product and the machine will evaluate the total transaction amount .It will check if the customer purchased products greater than a certain amount and, upon meeting the criteria,it will tell if he/she is eligible for a discount or not.If yes,it will calculate the discount amount user can avail and deduct it from the total amount and finally gives the exact amount customer needs to pay.
 Implementation
 • We will have inputs as the number of each
 products purchased.
@@ -42,5 +27,3 @@ subtracter logic circuit.
 • The output is the amount the customer needs to
 pay,discount amount,and if the customer is elgible for
 discount or not.
-Name:Keerthana.S
-Rollno:B230376CS
